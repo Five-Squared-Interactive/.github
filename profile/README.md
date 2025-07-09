@@ -4,7 +4,7 @@
 [![Join Discord](https://img.shields.io/badge/Community-Join_Discord-7289DA?style=flat-square&logo=discord)](https://discord.gg/nFHsWQt6)
 [![Website](https://img.shields.io/website?style=flat-square&url=https://webverse.fivesqd.com)](https://webverse.fivesqd.com)
 
-Welcome to the official GitHub hub for **Web Wide Worlds**—an open framework for building, exploring, and remixing persistent 3D spaces.
+Welcome to the GitHub organization for **Web Wide Worlds**—an open framework for building, exploring, and remixing persistent 3D spaces.
 
 We develop creator-first tools for spatial computing, storytelling, and interoperable world design. If you're into collaborative ecosystems, immersive lore, and remix culture—you’re in the right place.
 
